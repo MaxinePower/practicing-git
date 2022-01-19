@@ -13,13 +13,3 @@ div {
     background-color: turquoise;
     border: 2px solid darkgoldenrod;
 }
-
-ul {
-    background-color: darkslateblue;
-    border: dimgray;
-}
-
-li {
-    color: hotpink;
-    border-bottom: 1px solid cyan;
-}
