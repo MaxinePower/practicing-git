@@ -1,3 +1,7 @@
+body {
+    background-color: darkseagreen;
+}
+
 h1 {
     font-size: 20px;
     color: darkblue;
@@ -5,4 +9,6 @@ h1 {
 
 div {
     background-color: aquamarine;
+    background-color: turquoise;
+    border: 2px solid darkgoldenrod;
 }
